@@ -1,7 +1,7 @@
 # Senior Marketing Analyst - Technical Assignment
 
 ## Overview
-Welcome! This assignment simulates a real-world scenario where you need to unify and analyze multi-channel advertising data. While marketing analysts don't typically deploy databases in day-to-day work, we want to ensure you're technical enough to tackle any challenge that comes your way.
+Welcome! This assignment simulates a real-world scenario where you need to unify and analyze multi-channel advertising data. 
 
 Your mission: Transform raw advertising data from three major platforms into actionable insights through a unified data model and compelling visualizations.
 
